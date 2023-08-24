@@ -1,0 +1,18 @@
+h3{
+    color: crimson;
+}
+p{
+    background-color: aquamarine;
+    
+    text-decoration-style: wavy;
+}
+li{font-style: bold;
+color: black;
+background-color: burlywood;}
+div{
+    background-color: brown;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 2px;
+    border-color: chartreuse;
+}
